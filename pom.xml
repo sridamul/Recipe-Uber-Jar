@@ -45,16 +45,16 @@
             <artifactId>rewrite-migrate-java</artifactId>
             <version>${openrewrite.migrate.java.version}</version>
         </dependency>
-        <dependency>
-            <groupId>org.openrewrite.recipe</groupId>
-            <artifactId>rewrite-testing-frameworks</artifactId>
-            <version>${openrewrite.testing.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openrewrite.recipe</groupId>
-            <artifactId>rewrite-logging-frameworks</artifactId>
-            <version>${openrewrite.logging.version}</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.openrewrite.recipe</groupId>-->
+<!--            <artifactId>rewrite-testing-frameworks</artifactId>-->
+<!--            <version>${openrewrite.testing.version}</version>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>org.openrewrite.recipe</groupId>-->
+<!--            <artifactId>rewrite-logging-frameworks</artifactId>-->
+<!--            <version>${openrewrite.logging.version}</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>org.openrewrite.recipe</groupId>
             <artifactId>rewrite-all</artifactId>
